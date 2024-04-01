@@ -1,0 +1,80 @@
+22 March
+CSK v/s RCB
+6:30 PM
+Chennai
+23 March
+PBKS v/s DC
+2:30 PM
+Mohali
+KKR v/s SRH
+6:30 PM
+Kolkata
+24 March
+RR v/s LSG
+2:30 PM
+Jaipur
+GT v/s MI
+6:30 PM
+Ahmedabad
+25 March
+RCB v/s PBKS
+6:30 PM
+Bengaluru
+26 March
+CSK v/s GT
+6:30 PM
+Chennai
+27 Mar
+SRH v/s MI
+6:30 PM
+Hyderabad
+28 March
+RR v/s DC
+6:30 PM
+Jaipur
+29 March
+RCB v/s KKR
+6:30 PM
+Bengaluru
+30 March
+LSG v/s PBKS
+6:30 PM
+Lucknow
+31 March
+GT v/s SRH
+2:30 PM
+Ahmedabad
+DC v/s CSK
+6:30 PM
+Vizag
+1 April
+MI v/s RR
+6:30 PM
+Mumbai
+2 April
+RCB v/s LSG
+6:30 PM
+Bengaluru
+3 April
+DC v/s KKR
+6:30 PM
+Vizag
+4 April
+GT v/s PBKS
+6:30 PM
+Ahmedabad
+5 April
+SRH v/s CSK
+6:30 PM
+Hyderabad
+6 April
+RR v/s RCB
+6:30 PM
+Jaipur
+7 April
+MI v/s DC
+2:30 PM
+Mumbai
+LSG v/s GT
+6:30 PM
+Lucknow
